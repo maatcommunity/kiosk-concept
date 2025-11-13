@@ -10,7 +10,7 @@
 - [Technical Specifications](#technical-specifications)
 - [Design Guidelines](#design-guidelines)
 - [Evaluation Criteria](#evaluation-criteria)
-- [Deliverables](#deliv#€erables)
+- [Deliverables](#deliverables)
 
 ---
 
