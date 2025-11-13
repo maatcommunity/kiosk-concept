@@ -42,9 +42,9 @@ The Figma includes:
 - [Geist Font](https://github.com/vercel/geist-font/)
 
 **Your task**:
-- ✅ Recreate the initial screen faithfully
-- ✅ Extend the design language to additional screens
-- ✅ Maintain visual consistency across all UI elements
+- Recreate the initial screen faithfully
+- Extend the design language to additional screens
+- Maintain visual consistency across all UI elements
 
 **Note**: Pixel-perfection is not expected, but **design coherence** is required.
 
@@ -135,11 +135,11 @@ Any stack is acceptable (Firebase, Supabase, Nest, Go, Rails, etc.)
 
 This project intentionally leaves room for creativity. Consider adding:
 
-- 🎨 Smooth animations or transitions
-- 🔒 Kiosk lock mode (prevent access to device functions)
-- 📱 QR code-based check-in
-- 🌐 Offline-first mode with sync
-- 🎯 Any feature that demonstrates your product thinking
+- Smooth animations or transitions
+- Kiosk lock mode (prevent access to device functions)
+- QR code-based check-in
+- Offline-first mode with sync
+- Any feature that demonstrates your product thinking
 
 **Remember**: Quality over quantity. A few well-executed features are better than many half-finished ones.
 
