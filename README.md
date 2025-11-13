@@ -37,14 +37,16 @@ The Figma includes:
 - Layout conventions
 - Overall aesthetic direction
 
+**Resources**:
+- [MAAT's Kiosk Concept File](https://www.figma.com/design/yZiTpnsOb9E8v0lUHRHNB9/MAAT-Kiosk-Concept?node-id=0-1&m=dev)
+- [Geist Font](https://github.com/vercel/geist-font/)
+
 **Your task**:
 - ✅ Recreate the initial screen faithfully
 - ✅ Extend the design language to additional screens
 - ✅ Maintain visual consistency across all UI elements
 
 **Note**: Pixel-perfection is not expected, but **design coherence** is required.
-**Link to Figma file**: [MAAT's Kiosk Concept File](https://www.figma.com/design/yZiTpnsOb9E8v0lUHRHNB9/MAAT-Kiosk-Concept?node-id=0-1&m=dev)
-**Link to Font**: [Geist Font](https://github.com/vercel/geist-font/)
 
 ---
 
