@@ -44,6 +44,7 @@ The Figma includes:
 
 **Note**: Pixel-perfection is not expected, but **design coherence** is required.
 **Link to Figma file**: [MAAT's Kiosk Concept File](https://www.figma.com/design/yZiTpnsOb9E8v0lUHRHNB9/MAAT-Kiosk-Concept?node-id=0-1&m=dev)
+**Link to Font**: [Geist Font](https://github.com/vercel/geist-font/)
 
 ---
 
