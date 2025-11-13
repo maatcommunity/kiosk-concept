@@ -12,8 +12,6 @@
 - [Evaluation Criteria](#evaluation-criteria)
 - [Deliverables](#deliverables)
 
----
-
 ## Overview
 
 Build a **Gym Kiosk application** that allows gym members to check in for today's classes. This project tests your ability to:
@@ -47,8 +45,6 @@ The Figma includes:
 - Maintain visual consistency across all UI elements
 
 **Note**: Pixel-perfection is not expected, but **design coherence** is required.
-
----
 
 ### 2. Core User Flow
 
@@ -87,8 +83,6 @@ After successful check-in:
 - [ ] Show confirmation screen
 - [ ] Auto-reset to home screen after 2–3 seconds
 - [ ] Ensure kiosk returns to "ready" state
-
----
 
 ### 3. Data Layer
 
@@ -129,8 +123,6 @@ Expose basic endpoints:
 
 Any stack is acceptable (Firebase, Supabase, Nest, Go, Rails, etc.)
 
----
-
 ### 4. Optional Enhancements
 
 This project intentionally leaves room for creativity. Consider adding:
@@ -142,8 +134,6 @@ This project intentionally leaves room for creativity. Consider adding:
 - Any feature that demonstrates your product thinking
 
 **Remember**: Quality over quantity. A few well-executed features are better than many half-finished ones.
-
----
 
 ## Technical Specifications
 
@@ -160,8 +150,6 @@ Consider implementing:
 - State management appropriate to your chosen stack
 - Reusable components
 - Proper error handling
-
----
 
 ## Design Guidelines
 
@@ -184,8 +172,6 @@ Consider implementing:
    - Empty states (no classes, no members)
    - Error states (failed check-in)
    - Success states
-
----
 
 ## Evaluation Criteria
 
@@ -220,8 +206,6 @@ Your submission will be evaluated on:
 - Offline-first approach
 - Integration tests
 - Creative features that enhance the experience
-
----
 
 ## Deliverables
 
@@ -273,8 +257,6 @@ Please submit:
 
 [Step-by-step instructions]
 ```
-
----
 
 ## Questions?
 
