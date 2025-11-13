@@ -1,4 +1,4 @@
-# Gym Kiosk Application - Take-Home Assessment
+# MAAT's Kiosk Application
 
 > **Time-box**: Maximum 2 days of work
 > **AI tools**: Encouraged
